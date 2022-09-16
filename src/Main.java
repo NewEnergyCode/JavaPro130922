@@ -1,6 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello my friends!");
+
+        var massege = MassegeBuilder.getHello();
+        var friendGrit = MassegeBuilder.getHelloFriend("Bob");
+
+        System.out.println(massege);
+        System.out.println(friendGrit);
+
     }
 }
