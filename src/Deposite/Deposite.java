@@ -1,22 +1,22 @@
 package Deposite;
 
-import java.util.Scanner;
 
 
 public class Deposite {
 
-    public static void deposite1() {
 
-        Scanner scanner = new Scanner(System.in);
+    public static void procent() {
 
-        System.out.println("Enter first name: ");
+        double interestFor1year = App.contAmount * App.TAX;
+        double depFor1year = App.contAmount + interestFor1year;
+        double depFor5year = (App.contAmount + interestFor1year) * 5;
+        double depFor10year = (App.contAmount + interestFor1year) * 10;
 
-        String firstName = scanner.nextLine();
-
-        System.out.println("Enter second name: ");
-
-        String secondName = scanner.nextLine();
-        System.out.println(firstName + " " + secondName);
-
+        System.out.println("---------------------------------------------" +
+                "\nClient name: " + App.firstName + " " + App.secondName +
+                "\nContribution amount: " + App.contAmount +
+                "\nAmount per year: " + depFor1year +
+                "\nAmount per 5 years: " + depFor5year +
+                "\nAmount per 10 years: " + depFor10year);
     }
 }
