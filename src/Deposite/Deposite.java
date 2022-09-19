@@ -1,7 +1,6 @@
 package Deposite;
 
 
-
 public class Deposite {
 
 
@@ -14,9 +13,10 @@ public class Deposite {
 
         System.out.println("---------------------------------------------" +
                 "\nClient name: " + App.firstName + " " + App.secondName +
-                "\nContribution amount: " + App.contAmount +
-                "\nAmount per year: " + depFor1year +
-                "\nAmount per 5 years: " + depFor5year +
-                "\nAmount per 10 years: " + depFor10year);
+                "\nAnnual rate: " + App.TAX * 100 + " %" +
+                "\nContribution amount: " + App.contAmount + " $" +
+                "\nAmount per year: " + depFor1year + " $" +
+                "\nAmount per 5 years: " + depFor5year + " $" +
+                "\nAmount per 10 years: " + depFor10year + " $");
     }
 }
