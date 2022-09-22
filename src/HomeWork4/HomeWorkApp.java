@@ -5,6 +5,7 @@ public class HomeWorkApp {
 
         printThreeWords();
         checkSumSign();
+        printColor();
 
     }
 
@@ -27,6 +28,20 @@ public class HomeWorkApp {
         } else {
             System.out.println("Sum is negative.");
         }
+
+    }
+
+    public static void printColor() {
+        System.out.println("3) printColor:");
+        int value = 100;
+        if (value <= 0) {
+            System.out.println("Red.");
+        } else if (value > 0 && value <= 100) {
+            System.out.println("Yellow.");
+        } else if (value > 100) {
+            System.out.println("Green.");
+        }
+
 
     }
 
