@@ -11,6 +11,7 @@ public class HomeWorkApp {
         compareNumbers();
         System.out.println(sumBounds());
         naturalNumbers();
+        System.out.println(naturalNumbers2());
 
     }
 
@@ -85,17 +86,36 @@ public class HomeWorkApp {
     public static void naturalNumbers() {
         System.out.println("7) naturalNumbers:");
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner2 = new Scanner(System.in);
         System.out.print("Enter int number:");
 
-        int number = scanner.nextInt();
-        scanner.close();
+        int number = scanner2.nextInt();
 
-        if (number >=0){
+        if (number >= 0) {
             System.out.println("Your number is positive.");
-        }else {
+        } else {
             System.out.println("Your number is negative.");
         }
+
+    }
+
+    public static boolean naturalNumbers2() {
+        System.out.println("8) naturalNumbers2:");
+
+        Scanner scanner3 = new Scanner(System.in);
+        System.out.print("Enter int number:");
+
+        int number2 = scanner3.nextInt();
+
+        if (number2 > 0) {
+            return false;
+        } else if (number2 < 0) {
+            return true;
+        } else if (number2 == 0){
+            System.out.println("You enter zero.");
+            naturalNumbers2();
+        }
+        return false;
 
     }
 
