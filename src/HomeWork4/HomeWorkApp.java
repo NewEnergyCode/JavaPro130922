@@ -1,5 +1,7 @@
 package HomeWork4;
 
+import java.util.Scanner;
+
 public class HomeWorkApp {
     public static void main(String[] args) {
 
@@ -7,6 +9,7 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
+        System.out.println(sumBounds());
 
     }
 
@@ -53,6 +56,26 @@ public class HomeWorkApp {
             System.out.println("a >= b");
         } else {
             System.out.println("a < b");
+        }
+
+    }
+
+    public static boolean sumBounds() {
+        System.out.println("4) sumBounds:");
+
+        System.out.print("Enter number #1:");
+        Scanner scanner = new Scanner(System.in);
+        int number1 = scanner.nextInt();
+
+        System.out.print("Enter number #2:");
+        int number2 = scanner.nextInt();
+
+        int sumNumber = number1 + number2;
+
+        if (sumNumber >= 10 & sumNumber <= 20) {
+            return true;
+        } else {
+            return false;
         }
 
     }

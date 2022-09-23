@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPro130922.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MassegeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/MassegeBuilder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ErMTvaH5o1ac1IRk9l9RONqJtx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java/IDE/Broker2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HomeWorkApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deposite.App" />
+      <module name="JavaPro130922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deposite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.HomeWorkApp" />
+      <module name="JavaPro130922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson01.Main" />
+      <module name="JavaPro130922" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWorkApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="" />
+      <created>1663349262038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663349262038</updated>
+      <workItem from="1663349263380" duration="5724000" />
+      <workItem from="1663568487671" duration="9298000" />
+      <workItem from="1663689122864" duration="1203000" />
+      <workItem from="1663690996127" duration="3795000" />
+      <workItem from="1663866540173" duration="3704000" />
+      <workItem from="1663926403340" duration="4124000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit, added hello world">
+      <created>1663349726712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663349726712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit, added hello friends">
+      <created>1663349786034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663349786034</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new branch">
+      <created>1663351075400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663351075400</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed new var name">
+      <created>1663351529006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663351529006</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed enter First and Second name">
+      <created>1663354843124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663354843124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add deposite calculator.">
+      <created>1663599524031</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663599524031</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added Annual rate and $ sign and % sign.">
+      <created>1663601534700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663601534700</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added HomeWorkApp &#10;and printThreeWords()">
+      <created>1663870388154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663870388154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()">
+      <created>1663871050025</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663871050025</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()">
+      <created>1663871512353</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663871512353</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()">
+      <created>1663872030519</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663872030519</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hellower" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit, added hello world" />
+    <MESSAGE value="changed hello friends" />
+    <MESSAGE value="added new branch" />
+    <MESSAGE value="changed new var name" />
+    <MESSAGE value="changed enter First and Second name" />
+    <MESSAGE value="add deposite calculator." />
+    <MESSAGE value="added Annual rate and $ sign and % sign." />
+    <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()" />
+    <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()" />
+    <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()" />
+    <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()" />
+  </component>
+</project>
