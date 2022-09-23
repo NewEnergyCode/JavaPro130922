@@ -12,6 +12,7 @@ public class HomeWorkApp {
         System.out.println(sumBounds());
         naturalNumbers();
         System.out.println(naturalNumbers2());
+        wordAndNumb();
 
     }
 
@@ -111,13 +112,26 @@ public class HomeWorkApp {
             return false;
         } else if (number2 < 0) {
             return true;
-        } else if (number2 == 0){
+        } else if (number2 == 0) {
             System.out.println("You enter zero.");
             naturalNumbers2();
         }
         return false;
-
     }
 
+    public static void wordAndNumb() {
+        System.out.println("9) wordAndNumb:");
+
+        Scanner scanner4 = new Scanner(System.in);
+        System.out.print("Enter string:");
+
+        String word = scanner4.nextLine();
+        System.out.print("Enter number:");
+        int number3 = scanner4.nextInt();
+
+        for (int i = 0; i != number3; i++){
+            System.out.println("word");
+        }
+    }
 
 }
