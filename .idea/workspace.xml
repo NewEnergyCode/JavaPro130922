@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()" />
+    <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,7 +110,7 @@
       <workItem from="1663689122864" duration="1203000" />
       <workItem from="1663690996127" duration="3795000" />
       <workItem from="1663866540173" duration="3704000" />
-      <workItem from="1663926403340" duration="7763000" />
+      <workItem from="1663926403340" duration="10898000" />
     </task>
     <task id="LOCAL-00001" summary="init commit, added hello world">
       <created>1663349726712</created>
@@ -213,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663941971180</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()">
+      <created>1663942165985</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663942165985</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

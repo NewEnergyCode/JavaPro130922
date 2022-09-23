@@ -5,14 +5,15 @@ import java.util.Scanner;
 public class HomeWorkApp {
     public static void main(String[] args) {
 
-        printThreeWords();
-        checkSumSign();
-        printColor();
-        compareNumbers();
-        System.out.println(sumBounds());
-        naturalNumbers();
-        System.out.println(naturalNumbers2());
-        wordAndNumb();
+//        printThreeWords();
+//        checkSumSign();
+//        printColor();
+//        compareNumbers();
+//        System.out.println(sumBounds());
+//        naturalNumbers();
+//        System.out.println(naturalNumbers2());
+//        wordAndNumb();
+        System.out.println(leapYear());
 
     }
 
@@ -129,9 +130,23 @@ public class HomeWorkApp {
         System.out.print("Enter number:");
         int number3 = scanner4.nextInt();
 
-        for (int i = 0; i != number3; i++){
-            System.out.println("word");
+        for (int i = 0; i != number3; i++) {
+            System.out.println(word);
         }
     }
 
-}
+    public static boolean leapYear() {
+        System.out.println("10) leanYear:");
+        Scanner scanner5 = new Scanner(System.in);
+        System.out.print("Enter number:");
+        int number6 = scanner5.nextInt();
+
+        if (((number6 % 4 == 0) && (number6 % 100 != 0)) || (number6 % 400 == 0)) {
+            return true;
+        }else {
+            return false;
+        }
+
+        }
+
+    }
