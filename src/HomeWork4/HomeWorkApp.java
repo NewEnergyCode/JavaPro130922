@@ -5,14 +5,14 @@ import java.util.Scanner;
 public class HomeWorkApp {
     public static void main(String[] args) {
 
-//        printThreeWords();
-//        checkSumSign();
-//        printColor();
-//        compareNumbers();
-//        System.out.println(sumBounds());
-//        naturalNumbers();
-//        System.out.println(naturalNumbers2());
-//        wordAndNumb();
+        printThreeWords();
+        checkSumSign();
+        printColor();
+        compareNumbers();
+        System.out.println(sumBounds());
+        naturalNumbers();
+        System.out.println(naturalNumbers2());
+        wordAndNumb();
         System.out.println(leapYear());
 
     }
