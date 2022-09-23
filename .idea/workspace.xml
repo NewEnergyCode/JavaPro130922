@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPro130922.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MassegeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/MassegeBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,7 @@
       <workItem from="1663689122864" duration="1203000" />
       <workItem from="1663690996127" duration="3795000" />
       <workItem from="1663866540173" duration="3704000" />
-      <workItem from="1663926403340" duration="4124000" />
+      <workItem from="1663926403340" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="init commit, added hello world">
       <created>1663349726712</created>
@@ -194,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663872030519</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()">
+      <created>1663938364510</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663938364510</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

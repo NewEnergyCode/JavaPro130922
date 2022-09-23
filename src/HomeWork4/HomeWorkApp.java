@@ -10,11 +10,12 @@ public class HomeWorkApp {
         printColor();
         compareNumbers();
         System.out.println(sumBounds());
+        naturalNumbers();
 
     }
 
     public static void printThreeWords() {
-        System.out.println("1) printThreeWords:");
+        System.out.println("2) printThreeWords:");
         System.out.println("""
                 Orange
                 Banana
@@ -23,7 +24,7 @@ public class HomeWorkApp {
     }
 
     public static void checkSumSign() {
-        System.out.println("2) checkSumSign:");
+        System.out.println("3) checkSumSign:");
         int a = 4;
         int b = 8;
 
@@ -36,7 +37,7 @@ public class HomeWorkApp {
     }
 
     public static void printColor() {
-        System.out.println("3) printColor:");
+        System.out.println("4) printColor:");
         int value = 100;
         if (value <= 0) {
             System.out.println("Red.");
@@ -48,7 +49,7 @@ public class HomeWorkApp {
     }
 
     public static void compareNumbers() {
-        System.out.println("4) compareNumbers:");
+        System.out.println("5) compareNumbers:");
         int a = 2;
         int b = 5;
 
@@ -61,7 +62,7 @@ public class HomeWorkApp {
     }
 
     public static boolean sumBounds() {
-        System.out.println("4) sumBounds:");
+        System.out.println("6) sumBounds:");
 
         System.out.print("Enter number #1:");
         Scanner scanner = new Scanner(System.in);
@@ -69,7 +70,7 @@ public class HomeWorkApp {
 
         System.out.print("Enter number #2:");
         int number2 = scanner.nextInt();
-
+//        scanner.close();
         int sumNumber = number1 + number2;
 
         if (sumNumber >= 10 & sumNumber <= 20) {
@@ -78,6 +79,25 @@ public class HomeWorkApp {
             return false;
         }
 
+
     }
+
+    public static void naturalNumbers() {
+        System.out.println("7) naturalNumbers:");
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter int number:");
+
+        int number = scanner.nextInt();
+        scanner.close();
+
+        if (number >=0){
+            System.out.println("Your number is positive.");
+        }else {
+            System.out.println("Your number is negative.");
+        }
+
+    }
+
 
 }
