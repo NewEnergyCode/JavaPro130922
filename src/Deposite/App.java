@@ -9,11 +9,13 @@ public class App {
     static String secondName;
 
     static double TAX = 0.1;
+
     public static void main(String[] args) {
 
         customerData();
         Deposite.procent();
     }
+
     public static void customerData() {
 
         Scanner scanner = new Scanner(System.in);

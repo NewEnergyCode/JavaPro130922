@@ -1,3 +1,5 @@
+package Lesson01;
+
 public class MassegeBuilder {
 
     public static String getHello(){
