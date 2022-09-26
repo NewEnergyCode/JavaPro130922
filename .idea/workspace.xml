@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()">
+    <list default="true" id="ab50f3fb-be19-48bf-b440-1d510d78a8ef" name="Changes" comment="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()&#10;and leapYear()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4/HomeWorkApp.java" afterDir="false" />
     </list>
@@ -110,7 +110,8 @@
       <workItem from="1663689122864" duration="1203000" />
       <workItem from="1663690996127" duration="3795000" />
       <workItem from="1663866540173" duration="3704000" />
-      <workItem from="1663926403340" duration="10898000" />
+      <workItem from="1663926403340" duration="12361000" />
+      <workItem from="1664204111931" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="init commit, added hello world">
       <created>1663349726712</created>
@@ -224,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663942165985</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()&#10;and leapYear()">
+      <created>1663945208161</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663945208161</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()&#10;and leapYear()">
+      <created>1663945372353</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663945372353</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +251,21 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -257,6 +287,7 @@
     <MESSAGE value="added HomeWorkApp&#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()" />
     <MESSAGE value="added HomeWorkApp&#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()" />
     <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()" />
-    <option name="LAST_COMMIT_MESSAGE" value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()" />
+    <MESSAGE value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()&#10;and leapYear()" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HomeWorkApp &#10;and printThreeWords()&#10;and checkSumSign()&#10;and printColor()&#10;and compareNumbers()&#10;and sumBounds()&#10;and naturalNumbers()&#10;and naturalNumbers2()&#10;and wordAndNumb()&#10;and leapYear()" />
   </component>
 </project>
