@@ -9,7 +9,8 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
-        System.out.println(sumBounds());
+        System.out.println(sumBounds(scanIntNumb(), scanIntNumb()));
+
         naturalNumbers();
         System.out.println(naturalNumbers2());
         wordAndNumb();
@@ -64,17 +65,10 @@ public class HomeWorkApp {
 
     }
 
-    public static boolean sumBounds() {
+    public static boolean sumBounds(int a, int b) {
         System.out.println("6) sumBounds:");
 
-        System.out.print("Enter number #1:");
-        Scanner scanner = new Scanner(System.in);
-        int number1 = scanner.nextInt();
-
-        System.out.print("Enter number #2:");
-        int number2 = scanner.nextInt();
-//        scanner.close();
-        int sumNumber = number1 + number2;
+        int sumNumber = a + b;
 
         if (sumNumber >= 10 & sumNumber <= 20) {
             return true;
@@ -148,5 +142,15 @@ public class HomeWorkApp {
         }
 
         }
+
+    public static int scanIntNumb(){
+
+        System.out.print("Enter number:");
+        Scanner scanner = new Scanner(System.in);
+        int number1 = scanner.nextInt();
+
+        return number1;
+
+    }
 
     }
